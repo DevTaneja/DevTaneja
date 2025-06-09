@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://drive.google.com/uc?export=view&id=1PE4Xwpnuxk5Ff71ag_R0cz4qYwPnma6d"  />
+  <img height="200" src="/assets/spongebob.gif"  />
 </div>
 
 ###

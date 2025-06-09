@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I'm a technologist who loves turning ideas into impactful, scalable, and reliable products. I believe great tech doesn't just work ; it lasts, adapts, and inspires .<br><br>With a strong foundation in software engineering and a passion for creative problem-solving, I strive to build systems that are not only technically sound but also thoughtfully designed. I enjoy navigating the space where engineering meets imagination  where architecture, code, and user experience come together to make something truly meaningful.</p>
+<p align="left">I'm a tech enthusiast who loves turning ideas into impactful, scalable, and reliable products. I believe great tech doesn't just work — it lasts, adapts, and inspires.
+
+With a strong foundation in software engineering and a passion for creative problem-solving, I strive to build systems that are not only technically sound but also thoughtfully designed. I enjoy navigating the space where engineering meets imagination — where architecture, code, and user experience come together to create something truly meaningful.</p>
 
 ###
 
